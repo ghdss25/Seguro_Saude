@@ -53,7 +53,7 @@ usuário
 - [esquisse](https://www.littlemissdata.com/fdf/esquisse)
 - [ggplot2](https://ggplot2.tidyverse.org/) 
 
-## Bibliotecas para Geração de Gráficos da Jucepe 
+## Bibliotecas para Geração de Gráficos da Seguro Saúde 
 
 - [geom_bar](https://plotly.com/ggplot2/geom_bar/)
 - [geom_boxplot](https://r-graph-gallery.com/boxplot.html)
@@ -61,7 +61,7 @@ usuário
 - [geom_point](https://plotly.com/ggplot2/geom_point/) 
 - [geom_tile](https://r-charts.com/correlation/heat-map-ggplot2/)
 
-## Imagens dos Gráficos da Jucepe 
+## Imagens dos Gráficos da Seguro Saúde  
 
 ** Aumento de influência do IMC por idade  ** 
 <img src="Grafico_1.png">
