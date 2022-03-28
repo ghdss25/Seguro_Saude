@@ -63,16 +63,16 @@ usuário
 
 ## Imagens dos Gráficos da Jucepe 
 
-** Média de Abertura por Ano  ** 
+** Aumento de influência do IMC por idade  ** 
 <img src="Grafico_1.png">
 
-** Total de Abertura por Ano **
+** Valor Gasto de Seguro Saúde por Sexo **
 <img src="Grafico_2.png">
 
-** Total de Abertura por Mês ** 
+** Média de Peso por IMC ** 
 <img src="Grafico_3.png">
 
-** Média de Abertura por Mês ** 
+** Valor Gasto por Sexo, Faixa etária e região ** 
 <img src="Grafico_4.png"> 
 
 Desenvolvido por Gustavo Henrique de Souza Silva
