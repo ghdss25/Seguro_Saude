@@ -9,7 +9,7 @@ operadora e possuem as colunas: idade, sexo, imc (índice de massa corpórea), s
 criança, se é fumante, a região do usuário e o valor de seguro saúde de cada
 usuário
 
-## Tarefas para a planilhia da Jucepe
+## Tarefas para a planilha da Seguro Saúde
 
 ** O gasto total da operadora ** 
    
